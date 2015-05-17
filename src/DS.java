@@ -14,7 +14,7 @@ public class DS {
 		List<String> list1 = new ArrayList<String>();
 		
 		for(String x: something){
-			
+			//adding an element
 			list1.add(x);
 		}
 		
